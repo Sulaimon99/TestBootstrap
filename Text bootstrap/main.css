@@ -1,0 +1,22 @@
+.bg{
+	background: url(Screenshot_2018-06-28-13-31-02.png);
+	height: 300px;
+	background-size: cover;
+}
+
+.bg-white{
+	background-color: white;
+	height: 35px;
+}
+
+.bg-cover{
+	background: url(20181116090956.jpg);
+	height: 244px;
+	background-size: cover;	
+}
+
+.bg-prime{
+	padding: 5px 10px;
+	background-color: green;
+	border-radius: 2px;
+}
